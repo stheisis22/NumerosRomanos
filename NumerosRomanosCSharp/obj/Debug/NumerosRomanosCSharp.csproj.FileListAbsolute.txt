@@ -1,0 +1,7 @@
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\NumerosRomanosCSharp\bin\Debug\NumerosRomanosCSharp.exe.config
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\NumerosRomanosCSharp\bin\Debug\NumerosRomanosCSharp.exe
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\NumerosRomanosCSharp\bin\Debug\NumerosRomanosCSharp.pdb
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\NumerosRomanosCSharp\obj\Debug\NumerosRomanosCSharp.csprojAssemblyReference.cache
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\NumerosRomanosCSharp\obj\Debug\NumerosRomanosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\NumerosRomanosCSharp\obj\Debug\NumerosRomanosCSharp.exe
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\NumerosRomanosCSharp\obj\Debug\NumerosRomanosCSharp.pdb
